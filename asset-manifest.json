@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactJS-SCSS-Tour-Project/static/css/main.c44fa713.css",
+    "main.js": "/ReactJS-SCSS-Tour-Project/static/js/main.20c421d6.js",
+    "index.html": "/ReactJS-SCSS-Tour-Project/index.html",
+    "main.c44fa713.css.map": "/ReactJS-SCSS-Tour-Project/static/css/main.c44fa713.css.map",
+    "main.20c421d6.js.map": "/ReactJS-SCSS-Tour-Project/static/js/main.20c421d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c44fa713.css",
+    "static/js/main.20c421d6.js"
+  ]
+}
